@@ -1,0 +1,23 @@
+🛒 História de Usuário – Adicionar produto ao carrinho
+
+**Como** um usuário navegando pelo catálogo,
+**quero** poder adicionar um produto ao meu carrinho de compras,
+**para** que eu possa finalizar a compra mais tarde.
+
+✅ Critérios de Aceitação:
+
+1 - O botão “Adicionar ao carrinho” deve estar visível em cada item do catálogo.
+
+2 - Ao clicar no botão, o produto deve ser adicionado ao carrinho.
+
+3 - O sistema deve exibir uma confirmação: "Produto adicionado ao carrinho com sucesso!"
+
+4 - O carrinho deve atualizar a quantidade de itens automaticamente.
+
+5 - Não deve ser possível adicionar produtos fora de estoque (o botão deve estar desativado ou não disponível).
+
+6 - Se o produto já estiver no carrinho, o sistema deve apenas incrementar a quantidade.
+
+7 - O usuário pode visualizar o carrinho clicando no ícone correspondente.
+
+8 - O carrinho deve mostrar: nome do produto, preço, quantidade e subtotal.
