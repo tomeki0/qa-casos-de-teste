@@ -27,11 +27,19 @@ qa-casos-de-teste/
 │   ├── historia-de-usuario.md         ← Descrição do fluxo
 │   ├── casos-de-teste.xlsx            ← Casos de teste manuais
 │   └── bugs/
-│       └── bug-link-expirado.md       ← Bugs relacionados a essa funcionalidade
+│       └── bugs-rcps.xlsx             ← Bugs relacionados a essa funcionalidade
+
 ├── cadastro-usuario/
 │   ├── historia-de-usuario.md
 │   ├── casos-de-teste.xlsx
 │   └── bugs/
-│       └── bug-email-ja-cadastrado.md
+│       └── bugs-cadastro.xlsx
 └── ...
+
+---
+
+📬 Ficou curioso sobre minha evolução como QA ou quer trocar ideias?  
+Sinta-se à vontade para abrir uma issue ou me chamar via [LinkedIn](https://www.linkedin.com/in/guilhermelima-qa/).
+
+🚧 Este repositório está em constante atualização.
 
