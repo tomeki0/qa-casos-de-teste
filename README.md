@@ -23,15 +23,15 @@ qa-casos-de-teste/
 ├── README.md                          ← Este arquivo
 ├── recuperacao-senha/
 │   ├── historia-de-usuario.md         ← Descrição do fluxo
-│   ├── casos-de-teste.xlsx            ← Casos de teste manuais
+│   ├── casos-de-teste.pdf             ← Casos de teste manuais
 │   └── bugs/
-│       └── bugs-rcps.xlsx             ← Bugs relacionados a essa funcionalidade
+│       └── bugs-rcps.pdf              ← Bugs relacionados a essa funcionalidade
 
 ├── cadastro-usuario/
 │   ├── historia-de-usuario.md
-│   ├── casos-de-teste.xlsx
+│   ├── casos-de-teste.pdf
 │   └── bugs/
-│       └── bugs-cadastro.xlsx
+│       └── bugs-cadastro.pdf
 └── ...
 ```
 ---
