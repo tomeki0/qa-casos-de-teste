@@ -2,7 +2,7 @@
 
 # 🧪 Portfólio de Testes Manuais - Casos de Teste e Reportes de Bugs
 
-Me chamo Guilherme Lima, e este repositório contém minha prática pessoal de escrita de casos de teste manuais e reporte de bugs com base em histórias de usuário simuladas ou funcionalidades observadas em aplicações reais.
+Me chamo Guilherme Lima, e este repositório contém minha prática pessoal de **escrita de casos de teste manuais** e **reporte de bugs** com base em histórias de usuário simuladas ou funcionalidades observadas em aplicações reais.
 
 O objetivo deste repositório é desenvolver e demonstrar minhas habilidades como QA, aplicando boas práticas de teste, organização de cenários, fluxos e documentação de falhas, de forma clara e rastreável.
 
