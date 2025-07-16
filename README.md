@@ -2,7 +2,7 @@
 
 Me chamo Guilherme Lima, e este repositório contém minha prática pessoal de **escrita de casos de teste manuais** e **reporte de bugs** com base em histórias de usuário simuladas ou funcionalidades observadas em aplicações reais.
 
-O objetivo deste repositório é desenvolver e demonstrar minhas habilidades como QA, aplicando boas práticas de teste, organização de cenários, fluxos e documentação de falhas, de forma clara e rastreável.
+O objetivo deste repositório é desenvolver e demonstrar minhas habilidades como QA, aplicando boas práticas de teste, organização de cenários, fluxos e documentação de falhas, de forma clara, organizada e rastreável.
 
 ---
 
