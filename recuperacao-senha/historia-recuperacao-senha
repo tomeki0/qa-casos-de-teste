@@ -1,0 +1,21 @@
+📄 História de Usuário – Recuperação de Senha
+
+Como um usuário cadastrado que esqueceu sua senha,
+quero solicitar a recuperação da senha informando meu e-mail,
+para que eu possa receber um link de redefinição e acessar novamente minha conta.
+
+✅ Critérios de Aceitação:
+
+1 - Deve existir um link ou botão com o texto "Esqueci minha senha" na tela de login.
+
+2 - Ao clicar, o usuário deve ser redirecionado para a tela de recuperação.
+
+3 - O formulário deve solicitar apenas o e-mail cadastrado.
+
+4 - Se o e-mail for válido e cadastrado, o sistema deve exibir a mensagem: "Enviamos um link de recuperação para seu e-mail."
+
+5 - Se o e-mail não estiver cadastrado, o sistema deve exibir: "E-mail não encontrado em nossa base."
+
+6 - Se o campo for deixado em branco, deve exibir: "Campo obrigatório."
+
+7 - O link de redefinição de senha deve ter validade de 30 minutos.
