@@ -35,7 +35,7 @@ qa-casos-de-teste/
 │   └── bugs/
 │       └── bugs-cadastro.xlsx
 └── ...
-
+```
 ---
 
 📬 Ficou curioso sobre minha evolução como QA ou quer trocar ideias?  
