@@ -1,0 +1,20 @@
+📄 História de Usuário
+Título: Cadastro de novo usuário
+
+Como um novo visitante da plataforma,
+quero me cadastrar com meu nome, e-mail e senha,
+para que eu possa acessar os recursos exclusivos da aplicação.
+
+📝 Critérios de Aceitação:
+
+1 - O formulário de cadastro deve conter os campos: nome, e-mail e senha.
+
+2 - O campo de e-mail deve aceitar apenas endereços válidos.
+
+3 - A senha deve ter no mínimo 8 caracteres.
+
+4 - Todos os campos são obrigatórios.
+
+5 - Após o cadastro bem-sucedido, o usuário deve ver uma mensagem de sucesso e ser redirecionado para a página de login.
+
+6 - Caso haja erro (como e-mail já cadastrado), deve aparecer uma mensagem informativa sem recarregar a página.
