@@ -18,6 +18,7 @@ O objetivo deste repositório é desenvolver e demonstrar minhas habilidades com
 ---
 
 ## 📁 Estrutura do Repositório
+Exemplo:
 
 ```text
 qa-casos-de-teste/
