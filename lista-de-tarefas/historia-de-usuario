@@ -1,0 +1,43 @@
+Um Gerenciador de Tarefas Simples é uma ótima opção para praticar, pois envolve diversas funcionalidades que permitem a criação de vários casos de teste.
+
+Aqui estão algumas funcionalidades para você começar a criar seus casos de teste:
+
+Funcionalidades Básicas
+Adicionar Tarefa:
+
+Um usuário deve poder adicionar uma nova tarefa, fornecendo um título (obrigatório) e, opcionalmente, uma descrição.
+
+As tarefas podem ter uma prioridade (alta, média, baixa) e uma data de vencimento.
+
+Visualizar Tarefas:
+
+O usuário deve conseguir ver uma lista de todas as tarefas adicionadas.
+
+A lista deve poder ser filtrada por status (pendente, concluída) e/ou prioridade.
+
+As tarefas devem poder ser ordenadas por data de vencimento, prioridade ou data de criação.
+
+Marcar Tarefa como Concluída:
+
+Um usuário deve poder marcar uma tarefa existente como concluída.
+
+Editar Tarefa:
+
+O usuário deve conseguir editar o título, descrição, prioridade ou data de vencimento de uma tarefa existente.
+
+Excluir Tarefa:
+
+Um usuário deve poder excluir uma tarefa da lista.
+
+Funcionalidades Adicionais (Opcional, para mais prática)
+Busca de Tarefas:
+
+Permitir que o usuário pesquise tarefas por palavras-chave no título ou descrição.
+
+Notificações (simuladas):
+
+Simular notificações para tarefas próximas à data de vencimento.
+
+Categorias/Tags:
+
+Permitir que o usuário categorize tarefas (trabalho, pessoal, estudos, etc.).
